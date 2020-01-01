@@ -1,0 +1,67 @@
+<html lang="en" dir="ltr"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <link rel="stylesheet" type="text/css" href="../main.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
+
+    <meta name="description" content="A neutral, ad-free space for writers to host their work.">
+    <link rel="canonical" href="https://neutralspaces.co">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Habeeb | Neutral Spaces">
+    <meta property="og:description" content="A neutral, ad-free space for writers to host their work.">
+    <meta property="og:url" content="https://neutralspaces.co">
+    <meta property="og:site_name" content="Neutral Sapces">
+    <meta property="og:image" content="https://neutralspaces.co/images/icon.png">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:description" content="A neutral, ad-free space for writers to host their work.">
+    <meta name="twitter:title" content="Habeeb | Neutral Spaces">
+    <meta name="twitter:site" content="@neutralspaces">
+    <meta name="twitter:image" content="https://neutralspaces.co/images/icon.png">
+
+    <title>Habeeb</title>
+  </head>
+
+<body>
+  <div id="top" onselectstart="return false">
+  <h1>NEUTRAL SPACES</h1>
+  </div>
+
+  <div id="topsml" onselectstart="return false">
+  <h1>NEUTRAL</h1>
+  </div>
+
+  <div id="rotbox" onselectstart="return false">
+  <h1 id="toprot">SPACES</h1>
+  </div>
+
+<div class="list">
+<h2 class="name">Habeeb</h2>
+<div class="bio">
+<div class="bioTitle">
+<h3>about</h3>
+</div>
+Well I am a part-time, amateur writer at best. I never had any intention of sharing my writings with more than a few of my close friends, but due to their encouragement I decided to put them out publicly. Any feedback is more than welcome. Thank you, and much love y'all
+</div>
+
+<h3>selected writing</h3>
+
+• <a href="https://cdn.discordapp.com/attachments/620754446577696768/632252412639576094/The_Getaway_Finished.docx" target="_blank">[Crashed 1] The Getaway [Direct Download]</a><br>
+• <a href="https://cdn.discordapp.com/attachments/609725342118051881/632841946364117002/Prequel_.docx" target="_blank">[Crashed 2] The Prequel [Direct Download]</a><br>
+• <a href="https://cdn.discordapp.com/attachments/635046856258355230/645177284273373187/Part_3.docx" target="_blank">[Crashed 3] The Smile [Direct Download]</a><br>
+• <a href="https://cdn.discordapp.com/attachments/639696953512296448/661725775715893289/The_Mirror.docx" target="_blank">[Poetry] Mirrors [Direct Download]</a><br>
+
+<div style="clear: both;"></div>
+
+<!-- <div class="contact">
+<h3>contact</h3>
+<a href="https://twitter.com/" target="_blank"><i class="fab fa-twitter"></i></a>
+</div> -->
+</div>
+
+<div class="home">
+<a href="../">home</a>
+</div>
+
+  
+
+</body></html>
